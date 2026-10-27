@@ -6,7 +6,12 @@
  "yomi": "きゃくらいか",
  "category": "能・狂言",
  "kind": "noh",
- "description": null,
+ "description": {
+  "kind": "能楽論",
+  "era": "永享5年（1433）",
+  "author": "世阿弥",
+  "desc": "晩年の世阿弥が、到達した芸の境地「却来」を説いた能楽論。"
+ },
  "editions": [
   {
    "pid": "859394",
